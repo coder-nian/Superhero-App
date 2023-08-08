@@ -1,6 +1,4 @@
-// https://superheroapi.com/api.php/10223569763528853
-
-const SUPERHERO_TOKEN =  '10223569763528853'
+const SUPERHERO_TOKEN =  'Your-Token'
 const BASE_URL = `https://superheroapi.com/api.php/${SUPERHERO_TOKEN}`
 const getNewHeroDiv = document.getElementById('getNewHero')
 const heroImageDiv = document.getElementById('heroImage')
